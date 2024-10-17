@@ -11,3 +11,6 @@ adapter:PrismaAdapter(prisma),
 
   providers: [GitHub,Google],
 });
+
+
+
